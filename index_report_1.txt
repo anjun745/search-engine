@@ -1,0 +1,3 @@
+Number of indexed documents: 3
+Number of unique words: 280
+Total size of index on disk (KB): 28.74
